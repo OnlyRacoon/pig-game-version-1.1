@@ -2,7 +2,7 @@
   "name": "pig-game",
   "version": "1.0.1",
   "description": "refactored using MVC architecture",
-  "default": "src/js/controller.js",
+  "default": "src/index.html",
   "browserslist": "since 2015",
   "scripts": {
     "start": "parcel src/index.html",
