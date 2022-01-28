@@ -21,7 +21,7 @@ class PlayerView {
 
   displayDice(dice) {
     diceElement.classList.remove('hidden');
-    diceElement.src = `../../dice-${dice}.png`;
+    diceElement.src = `../src/icons/dice-${dice}.png`;
   }
 
   displayCurrentScore(num) {
