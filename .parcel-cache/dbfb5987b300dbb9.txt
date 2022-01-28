@@ -1,5 +1,5 @@
-12603
-100C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\package.json132878293770146663 0
+12601
+100C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\package.json132878291597487814 0
 137C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\es-abstract\2020\Number\remainder.js132877316343755980 0
 135C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\svgo\plugins\convertShapeToPath.js132877316320994033 0
 98C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\.gitignore132877325930208498 0
@@ -8,7 +8,7 @@
 157C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\hash-base\node_modules\readable-stream\errors-browser.js132877316317981857 0
 128C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\utils\lib\stream.js132877316327189281 0
 147C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\caniuse-lite\data\features\cookie-store-api.js132877316329809405 0
-92C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist132878293920372182 1
+92C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist132878292923728296 1
 143C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\actual\reflect\set-prototype-of.js132877316357724062 0
 133C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\highlight.js\styles\pojoaque.jpg132877316327650013 0
 121C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\path-browserify\test132877316318121394 1
@@ -261,7 +261,7 @@
 129C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\postcss-modules\CHANGELOG.md132877316317073736 0
 131C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\es\typed-array\sort.js132877316358381864 0
 119C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\path-is-inside\lib132877316309623071 1
-114C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\src\js\views\playerView.js132878293432345101 0
+114C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\src\js\views\playerView.js132878293260283814 0
 135C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\fast-glob\out\providers\async.d.ts132877316322990863 0
 119C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\connect\HISTORY.md132877316309852305 0
 150C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\actual\typed-array\uint8-clamped-array.js132877316362200357 0
@@ -2388,6 +2388,7 @@
 137C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\highlight.js\lib\languages\elixir.js132877316331086925 0
 118C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\wcwidth\Readme.md132877316313804668 0
 117C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\css-tree\LICENSE132877316307131403 0
+111C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.4ee4707b.css132878291703984980 0
 133C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\es\number\parse-float.js132877316356225038 0
 128C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\regenerator-runtime\path.js132877316308437039 0
 131C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\modules\es.date.now.js132877316337943908 0
@@ -2883,7 +2884,6 @@
 117C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\has-bigints\test132877316313685062 1
 131C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\is-number-object\.eslintignore132877316308197835 0
 152C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\terser\node_modules\source-map\lib\binary-search.js132877316318181197 0
-112C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\dice-5.44e9dd05.png132878293906790113 0
 132C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\es\date\to-primitive.js132877316360224598 0
 143C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\terser\node_modules\source-map\lib\util.js132877316320453591 0
 130C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\get-symbol-description\.nycrc132877316309553305 0
@@ -2918,6 +2918,7 @@
 137C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\get-symbol-description\test\index.js132877316314751499 0
 118C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\terser\lib\cli.js132877316321473889 0
 139C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\css-tree\lib\syntax\node\StyleSheet.js132877316329889135 0
+110C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.e37f48ea.js132878292923678460 0
 120C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@types\mime\LICENSE132877316307350670 0
 112C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\is-url\test132877316314671761 1
 132C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\svgo\plugins\convertPathData.js132877316320343957 0
@@ -3488,7 +3489,6 @@
 140C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\htmlnano\lib\modules\removeUnusedCss.js132877316322841364 0
 174C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\split2\node_modules\readable-stream\lib\internal\streams\end-of-stream.js132877316317701630 0
 137C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\es\typed-array\int8-array.js132877316351227061 0
-115C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.c2101b2b.css.map132878293920352248 0
 139C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\caniuse-lite\data\features\push-api.js132877316342918788 0
 130C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\querystring-es3\test\index.js132877316316884368 0
 173C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\split2\node_modules\readable-stream\lib\internal\streams\from-browser.js132877316318988496 0
@@ -5045,7 +5045,7 @@
 122C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\mdn-data\css\index.js132877316310280880 0
 124C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\ncp\test\modified-files132877316317283030 1
 134C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\internals\array-buffer.js132877316325441651 0
-103C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.html132878293920292452 0
+103C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.html132878291703984980 0
 136C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\es-abstract\2021\thisNumberValue.js132877316345596631 0
 116C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\ncp\test\ncp.js132877316315917605 0
 130C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\ncp\test\symlink-fixtures\src132877316321135021 1
@@ -5101,7 +5101,6 @@
 126C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\browserify-cipher\LICENSE132877316312578765 0
 120C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\nanoid\package.json132877316320314058 0
 131C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\is-weakref\.github\FUNDING.yml132877316316655132 0
-114C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.fb448c22.js.map132878293920352248 0
 130C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\nanoid\url-alphabet\index.cjs132877316315110297 0
 140C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\caniuse-lite\data\features\shadowdom.js132877316343596521 0
 129C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\nanoid\url-alphabet\index.js132877316318858926 0
@@ -5799,6 +5798,7 @@
 140C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\highlight.js\scss\shades-of-purple.scss132877316338382439 0
 127C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\css-declaration-sorter\src132877316317641831 1
 136C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\core-js\modules\es.string.strike.js132877316341142765 0
+112C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\dice-5.a6ad44aa.png132878291704014874 0
 126C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\json-source-map\README.md132877316313934231 0
 121C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\json-source-map\spec132877316315359463 1
 148C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\es-abstract\2017\CanonicalNumericIndexString.js132877316329659904 0
@@ -12230,7 +12230,6 @@
 134C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babylon-walk\lib\scope.js132877316313635235 0
 128C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babel-ast-utils\lib132877316319466892 1
 128C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babel-ast-utils\src132877316319726024 1
-110C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.fb448c22.js132878293920292452 0
 138C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babel-ast-utils\test\fixtures132877316322871266 1
 147C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babel-ast-utils\test\fixtures\array.js132877316309054979 0
 147C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\@parcel\babel-ast-utils\test\fixtures\async.js132877316310380541 0
@@ -12596,9 +12595,8 @@
 116C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\.bin\terser.ps1132877316363468353 0
 115C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\node_modules\.bin\which.cmd132877316363468353 0
 98C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\icons132878284306076250 1
-110C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.9e515fdc.js132878293920292452 0
-114C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.9e515fdc.js.map132878293920352248 0
-111C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.c2101b2b.css132878293920292452 0
+115C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.4ee4707b.css.map132878291704064712 0
+114C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\index.e37f48ea.js.map132878292923718331 0
 109C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\icons\dice-1.png132878284303290000 0
 109C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\icons\dice-5.png132878284305580002 0
 109C:\Users\pavel\Desktop\JavaScript\complete-javascript-course-master\07-Pig-Game\starter\dist\icons\dice-6.png132878284306080000 0
